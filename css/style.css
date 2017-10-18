@@ -171,6 +171,7 @@ header {
 	background-size:cover;
 	background-attachment:fixed !important;
 	overflow:hidden;
+
 }
 .parallax-pattern-overlay {
 	background-image:url(../img/pattern.png);
@@ -781,7 +782,7 @@ textarea.contact {
 	position:relative;
 }
 .footer .container {
-	padding:60px 0 20px;
+	padding:60px 0 0px;
 }
 .footer ul {
 	margin:0 auto;
