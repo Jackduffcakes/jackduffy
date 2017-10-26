@@ -149,8 +149,12 @@ img {max-width: 100%;}
 
 }
 /* --- Intro --- */
-header {
-	padding-bottom:50px;
+.header{
+	text-align:center;
+	background:url(../li.jpg);
+  background-size: cover;
+  background-position: center;
+	padding:280px 0;
 }
 .intro {
 	font-family:'Playball',cursive;
