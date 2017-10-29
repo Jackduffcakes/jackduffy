@@ -204,6 +204,12 @@
 .fa-heart:before {
   content: "\f004";
 }
+.fa-graduation-cap:before {
+  content: "\f19d";
+}
+.fa-google:before {
+  content: "\f1a0";
+}
 .fa-star:before {
   content: "\f005";
 }

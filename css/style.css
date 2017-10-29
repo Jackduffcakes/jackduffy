@@ -655,7 +655,7 @@ span.nav-close:before {
 
 .hi-icon-effect i.fa:hover {
 	background:#fff;
-	color: darkblue;
+	color: darkgreen;
 	-webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
@@ -668,10 +668,40 @@ span.nav-close:before {
 	margin-bottom:30px;
 	color:#fff;
 	padding:50px;
-	background:darkblue;
+	background:darkgreen;
 	border-radius:50%;
 }
+.hi-icon-effect1 {
+	padding-bottom:30px;
+	padding-left:10px;
+	padding-right:10px;
+}
 
+.hi-icon-effect1:hover {
+	-webkit-transition: color 300ms, background-color 300ms;
+  -moz-transition: color 300ms, background-color 300ms;
+  -o-transition:  color 300ms, background-color 300ms;
+  transition:  color 300ms, background-color 300ms;
+}
+
+.hi-icon-effect1 i.fa:hover {
+	background:#fff;
+	color: #f4c20d;
+	-webkit-transition: color 300ms, background-color 300ms;
+  -moz-transition: color 300ms, background-color 300ms;
+  -o-transition:  color 300ms, background-color 300ms;
+  transition:  color 300ms, background-color 300ms;
+}
+
+.hi-icon-effect1 i {
+	font-size:30px;
+	margin-top:50px;
+	margin-bottom:30px;
+	color:#fff;
+	padding:50px;
+	background:#f4c20d;
+	border-radius:50%;
+}
 /* --- Contact --- */
 /* --- Map --- */
 .map{
