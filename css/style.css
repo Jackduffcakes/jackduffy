@@ -343,13 +343,13 @@ img#site-title {
 }
 .specialties img {
 	margin-top:30px;
-	margin-bottom:50px;
+	margin-bottom:0px;
 }
 .feedback img {
 	margin-top:30px;
-	margin-bottom:50px;
+	margin-bottom:0px;
 }
-html, body {
+html, body, header {
     max-width: 100%;
     overflow-x: hidden;
 }
@@ -628,6 +628,14 @@ span.nav-close:before {
 @media screen and (max-width:24em) {
 	.grid li {
 			width: 100%;
+	}
+	.specialties img {
+		margin-top:60px;
+		margin-bottom:10px;
+	}
+	.feedback img {
+		margin-top:60px;
+		margin-bottom:10px;
 	}
 }
 /* --- Educations --- */
