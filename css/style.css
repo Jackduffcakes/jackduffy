@@ -578,6 +578,7 @@ span.nav-close:before {
 	text-align:center;
 }
 .aboutus .row{margin-left:-55px}
+.feedback .row{margin-left:-55px}
 .info-keys:before,.info-keys:after {
 	position:absolute;
 	top:0;
